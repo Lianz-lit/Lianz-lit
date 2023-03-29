@@ -1,6 +1,4 @@
-<p align="center"><h1 align="center"> Hi there 👋</h1> </p>
-
-<p align="center"> <h1 align="center"> Lianz Lit </h1> </p>
+<p align="center"> <h1 align="center"> Lianz Lit  Hi there 👋</h1> </p>
 <p align="center">
 <a href="https://lianz-lit.github.io/" target="_blank"></a>
 </p>
