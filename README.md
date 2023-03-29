@@ -6,7 +6,9 @@
 I'm Lianz, a bachlor-straight-to-doctorate student majored in conputer science. I mainly focus on reinforcement learning(RL) and wireless rechargeable sensor networks(WRSN).
 
 📫 How to reach me: 
+
 `Website` - [lianz-lit](https://lianz-lit.github.io/)
+
 `Email` - [lianz-lit@zjnu.edu.cn](https://mail.163.com/)
 
 
