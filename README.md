@@ -3,7 +3,8 @@
 <a href="https://lianz-lit.github.io/" target="_blank"></a>
 </p>
 
-I'm Lianz, a bachlor-straight-to-doctorate student majored in conputer science. I mainly focus on reinforcement learning(RL) and wireless rechargeable sensor networks(WRSN).
+I'm Lianz, a bachlor-straight-to-doctorate student majored in computer science. 
+I'm currently working on reinforcement learning(RL) and wireless rechargeable sensor networks(WRSN).
 
 📫 How to contact me: 
 
