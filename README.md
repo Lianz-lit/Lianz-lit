@@ -15,5 +15,5 @@ I'm currently working on reinforcement learning(RL) and wireless rechargeable se
 <!-- `Ins` - [lianz-lit](https://www.instagram.com/lianzlit/) -->
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=lianz-lit&show_icons=true alt=Lianz />
+	<img src=https://github-readme-stats.vercel.app/api?username=lianz-lit&show_icons=true alt=Letitia />
 </p>
