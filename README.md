@@ -10,7 +10,7 @@ I'm currently working on reinforcement learning(RL) and wireless rechargeable se
 
 <!-- `Website` - [lianz-lit](https://sourl.cn/86nVBD) -->
 
-`Email` - [lianz-lit@zjnu.edu.cn](https://mail.163.com/)
+`Email` - [lianz_lit@zjnu.edu.cn](https://mail.163.com/)
 
 <!-- `Ins` - [lianz-lit](https://www.instagram.com/lianzlit/) -->
 
